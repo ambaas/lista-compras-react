@@ -9,7 +9,7 @@ function App(){
            <div className="row">
              <div className="col-12">
                 <h1 className="mt-5">
-                  Lista de compras
+                  Lista compras
                 </h1>
              </div>
            </div>
